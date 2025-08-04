@@ -14,6 +14,7 @@ Example:
 - `armstrong_function_basic.py` – Basic function using string conversion.
 - `armstrong_while_loop.py` – Using a while loop and modulus.
 - `armstrong_range_check.py` – Finding all Armstrong numbers in a given range.
+- `armstrong_range_user_input.py` - Finding all Armstrong numbers in a range input by user.
 - `armstrong_with_steps.py` – Armstrong check with visual step explanation.
 
 ## 🧠 What You Learn:
