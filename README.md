@@ -23,3 +23,26 @@ Example:
 - While loop logic
 - Function usage
 - Checking numbers in a range
+
+---
+
+### 📸 Output Screenshot
+
+Here's a sample output of the **optimized Armstrong number program**:
+
+![Armstrong Output](images/armstrong_optimized_output.png)
+
+---
+
+## 👩‍💻 Author
+
+Made with 💙 by **Adiba Rahman**  
+📧 adibarahmanwarsiii@gmail.com  
+🌐 [My Portfolio](https://adibaarahman.github.io)  
+🐱‍💻 [GitHub](https://github.com/AdibaaRahman)
+
+---
+
+## 📜 License 
+
+This project is open-source and free to use.
